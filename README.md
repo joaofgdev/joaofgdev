@@ -1,7 +1,15 @@
-- 👋 Ola, eu sou joao
+## Ola!! Eu sou o Joao Carlos Fagundez
+- 👋 Ola, eu sou 
 - 👍 meu email de contato é joao.fagundez@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a programar novas linguagens 
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scrath
+
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotafagundezz06&theme=shadow_blue&show_icons=true)
+  
+</div>
+
 
 
 <!---
