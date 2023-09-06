@@ -1,8 +1,7 @@
 ## Ola!! Eu sou o Joao Carlos Fagundez
-- 👋 Ola, eu sou 
-- 👍 meu email de contato é joao.fagundez@escola.pr.gov.br
+- 👍 meu email de contato é jotafagundezz@gmail.com
 - 👀 eu estou interessado em aprender a programar novas linguagens 
-- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scrath
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript
 
 <div>
   
