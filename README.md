@@ -15,7 +15,7 @@
 - ⚡ Curiosidade: faz um ano que estou estudando programaçao
 
 ## linguagens que eu ja trabalhei 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,cpp,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,cpp,postgres,mongodb)](https://skillicons.dev)
 
 ## contatos
 <div>
