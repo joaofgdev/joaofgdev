@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente estou cursando o 3 ano do novo ensino medio
 - 🤖 Faço parte de um projeto de robotica chamado pHbot
-- 🌱 Atualmente estou aprendendo sobre pyton e backend
+- 🌱 Atualmente estou aprendendo sobre python e backend
 - 📫 Como entrar em contato comigo: jotafagundezz@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: faz dois anos que estou estudando programaçao
