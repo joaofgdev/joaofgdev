@@ -13,7 +13,7 @@
 - 🌱 Atualmente estou aprendendo sobre python e backend
 - 📫 Como entrar em contato comigo: jotafagundezz@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: faz dois anos que estou estudando programaçao
+- ⚡ Curiosidade: faz tres anos que estou estudando programaçao
 
 ## linguagens que eu ja trabalhei 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,py,cpp,postgres,mongodb,nodejs,ts)](https://skillicons.dev)
