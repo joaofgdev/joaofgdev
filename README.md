@@ -8,12 +8,15 @@
 
 ##
 
-- 🔭 Atualmente estou cursando o 3 ano do novo ensino medio
-- 🤖 Faço parte de um projeto de robotica chamado pHbot
-- 🌱 Atualmente estou aprendendo sobre python e backend
+- 🔭 Atualmente cursando o 3º ano do Novo Ensino Médio
+- 🤖 Integrante do projeto de robótica pHbot
+- 💻 Focado em aprender desenvolvimento backend e novas tecnologias
+- 🚀 Apaixonado por ciência e inovação, com o sonho de trabalhar como engenheiro de F1
 - 📫 Como entrar em contato comigo: jotafagundezz@gmail.com
+- 🌍 Interesses em viagens, explorar diferentes culturas e conhecer lugares como Nova York e Itália
+- 🎯 Objetivo: crescer na área de programação, buscando sempre novos desafios e oportunidades
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: faz tres anos que estou estudando programaçao
+-⚡ Curiosidade: estudando programação há 3 anos e sempre à procura de novas formas de aplicar minhas habilidades!
 
 ## linguagens que eu ja trabalhei 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,py,cpp,postgres,mongodb,nodejs,ts)](https://skillicons.dev)
