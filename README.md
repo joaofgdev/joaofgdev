@@ -19,7 +19,7 @@
 -⚡ Curiosidade: estudando programação há 3 anos e sempre à procura de novas formas de aplicar minhas habilidades!
 
 ## linguagens que eu ja trabalhei 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,py,cpp,c,postgres,mongodb,nodejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,py,cpp,c,java,mongodb,nodejs,figma)](https://skillicons.dev)
 
 ## contatos
 <div>
