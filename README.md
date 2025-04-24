@@ -8,11 +8,11 @@
 
 ##
 
-- 🔭 Atualmente cursando o 3º ano do Novo Ensino Médio
-- 🤖 Integrante do projeto de robótica pHbot
+- 🔭 Atualmente cursando o 1° periodo de Analise e desenvolvimento de sistemas
+- 🤖 Integrante da startup pHbot 
 - 💻 Focado em aprender desenvolvimento backend e novas tecnologias
-- 🚀 Apaixonado por ciência e inovação, com o sonho de trabalhar como engenheiro de F1
-- 📫 Como entrar em contato comigo: jotafagundezz@gmail.com
+- 🚀 Apaixonado por ciência e inovação.
+- 📫 Como entrar em contato comigo: joaocarlos.phbot@gmailcom
 - 🌍 Interesses em viagens, explorar diferentes culturas e conhecer lugares como Nova York e Itália
 - 🎯 Objetivo: crescer na área de programação, buscando sempre novos desafios e oportunidades
 - 😄 Pronomes: ele/dele
