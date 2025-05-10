@@ -10,22 +10,21 @@
 
 - 🔭 Atualmente cursando o 1° periodo de Analise e desenvolvimento de sistemas
 - 🤖 Integrante da startup pHbot 
-- 💻 Focado em aprender desenvolvimento backend e novas tecnologias
+- 💻 Focado em aprender desenvolvimento Full-stack e novas tecnologias
 - 🚀 Apaixonado por ciência e inovação.
 - 📫 Como entrar em contato comigo: joaocarlos.phbot@gmailcom
-- 🌍 Interesses em viagens, explorar diferentes culturas e conhecer lugares como Nova York e Itália
 - 🎯 Objetivo: crescer na área de programação, buscando sempre novos desafios e oportunidades
 - 😄 Pronomes: ele/dele
 -⚡ Curiosidade: estudando programação há 3 anos e sempre à procura de novas formas de aplicar minhas habilidades!
 
 ## linguagens que eu ja trabalhei 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,py,cpp,c,java,mongodb,nodejs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,react,py,cpp,c,java,nodejs,figma)](https://skillicons.dev)
 
 ## contatos
 <div>
 <a href="https://instagram.com/jotafagundezz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaocarlos.pHbot@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/joão-carlos-fagundez-035b50363" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
