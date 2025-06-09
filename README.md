@@ -14,7 +14,7 @@
 - 🚀 Apaixonado por ciência e inovação.
 - 📫 Como entrar em contato comigo: joaocarlos.phbot@gmailcom
 - 🎯 Objetivo: crescer na área de programação, buscando sempre novos desafios e oportunidades
--⚡ Curiosidade: estudando programação há 3 anos e sempre à procura de novas formas de aplicar minhas habilidades!
+- ⚡ Curiosidade: estudando programação há 3 anos e sempre à procura de novas formas de aplicar minhas habilidades!
 
 ## linguagens que eu ja trabalhei 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,py,cpp,c,java,nodejs,figma)](https://skillicons.dev)
