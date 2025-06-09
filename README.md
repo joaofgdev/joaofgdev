@@ -14,7 +14,6 @@
 - 🚀 Apaixonado por ciência e inovação.
 - 📫 Como entrar em contato comigo: joaocarlos.phbot@gmailcom
 - 🎯 Objetivo: crescer na área de programação, buscando sempre novos desafios e oportunidades
-- 😄 Pronomes: ele/dele
 -⚡ Curiosidade: estudando programação há 3 anos e sempre à procura de novas formas de aplicar minhas habilidades!
 
 ## linguagens que eu ja trabalhei 
