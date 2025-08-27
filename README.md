@@ -1,6 +1,10 @@
 <h3 align="left">
-<span style="color: #87CEEB;"><b>JoaofgDev</b></span> 🔥!
+<span style="color: #87CEEB;"><b>JoaoCarlos</b></span> aqui 🔥!
 </h3>
+
+<p align="left">
+Namaste 🙏 Eu sou o João Carlos
+</p>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
