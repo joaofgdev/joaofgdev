@@ -1,5 +1,5 @@
 <h1 align="center">
-<span style="color: #00BFFF;"><b>JoaoCarlos</b></span> aqui 🔥!
+<span style="color: blue;"><b>joaofgdev</b></span>🔥
 </h1>
 ##
 <p align="center">
