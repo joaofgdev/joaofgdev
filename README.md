@@ -1,8 +1,8 @@
-<h3 align="left">
-<span style="color: #87CEEB;"><b>JoaoCarlos</b></span> aqui 🔥!
-</h3>
-
-<p align="left">
+<h5 align="center">
+<span style="color: #00BFFF;"><b>JoaoCarlos</b></span> aqui 🔥!
+</h5>
+##
+<p align="center">
 Namaste 🙏 Eu sou o João Carlos
 </p>
 
